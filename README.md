@@ -1,24 +1,25 @@
-# README
+<!-- Badges session -->
+<p align="center">  
+  <!-- languages -->
+  <img src="https://img.shields.io/github/languages/count/pleiterson/mindapp-cloud-tags?style=social" alt="Linguagens utilizadas">
+  <!-- repo size -->
+  <img src="https://img.shields.io/github/repo-size/Pleiterson/mindapp-cloud-tags?style=social" alt="Tamanho do repositório">
+  <!-- last commit -->
+  <img src="https://img.shields.io/github/last-commit/Pleiterson/mindapp-cloud-tags?style=social" alt="Último commit">
+  <!-- licence MIT -->
+  <img src="https://img.shields.io/github/license/Pleiterson/mindapp-cloud-tags?style=social" alt="Licença MIT">
+</p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+<!--About session-->
+<h1 align="center">MindApp - Desenvolvendo uma Cloud Tags com Ruby<br>Digital Innovation One</h1>
 
-* Ruby version
+Nesse projeto você aprenderá como desenvolver uma aplicação do zero utilizando o framework Ruby on Rails, do planejamento ao lançamento. Desde o entendimento e modelagem do problema, criação das tarefas com Trello, utilização do GitHub como repositório de código, até o lançamento da aplicação com Heroku para compartilhar o link com seus amigos. Ou seja, imersão completa no dia a dia de uma pessoa desenvolvedora.
 
-* System dependencies
+<!--License session-->
+<h3>📝 Licença</h3>
 
-* Configuration
+Este projeto está sob a licença [MIT](./LICENSE).
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<!--Bottom session-->
+<br><h4 align=center>Made with by <a target="_blank" href="https://pleiterson.vercel.app" >Pleiterson Amorim</a></h4>
